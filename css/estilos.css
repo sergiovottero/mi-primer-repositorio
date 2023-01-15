@@ -1,0 +1,38 @@
+*{
+    color: lightblue;
+}
+
+p {
+    color: red;
+    width: 300px;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: blue;
+    width: 200px;
+    border: 2px solid black;
+    margin: 5px 10px 15px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+section{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: green;
+    width: 300px;
+    border: 2px solid gray;
+    margin: 5px 10px 15px;
+    padding: 10px;
+}
+
+#resalte1{
+    color: blueviolet;
+}
+
+.estaesmiclase{
+    color: chartreuse;
+    border: 2px solid blueviolet;
+}
